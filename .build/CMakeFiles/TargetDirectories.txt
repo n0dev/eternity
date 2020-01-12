@@ -1,0 +1,3 @@
+/home/n0dev/workspace/eternity/.build/CMakeFiles/rebuild_cache.dir
+/home/n0dev/workspace/eternity/.build/CMakeFiles/eternity.dir
+/home/n0dev/workspace/eternity/.build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/eternity.dir/affichage.c.o CMakeFiles/eternity.dir/color.c.o CMakeFiles/eternity.dir/eternity.c.o CMakeFiles/eternity.dir/functions.c.o  -o eternity -lSDL -lSDL_gfx 
